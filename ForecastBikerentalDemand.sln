@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForecastBikerentalDemand", "ForecastBikerentalDemand\ForecastBikerentalDemand.csproj", "{CE21675F-B345-40D6-9D0C-FEFD861B7D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE21675F-B345-40D6-9D0C-FEFD861B7D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE21675F-B345-40D6-9D0C-FEFD861B7D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE21675F-B345-40D6-9D0C-FEFD861B7D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE21675F-B345-40D6-9D0C-FEFD861B7D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3102F2-6FE6-4269-94DB-8A1DE1C32A80}
+	EndGlobalSection
+EndGlobal
